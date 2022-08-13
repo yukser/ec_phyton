@@ -1,2 +1,2 @@
 # ec_phyton
-Repositorio de escual de cofigo de phyton 
+Repositorio de escuela de cofigo de phyton 
